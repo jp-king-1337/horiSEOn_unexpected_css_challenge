@@ -23,6 +23,10 @@ git clone git@github.com:jp-king-1337/horiSEOn_unexpected_css_challenge.git
 
 This project is to be graded as part of my participation in the Rutgers Coding Bootcamp.
 
+![first photo](horiSEOn_unexpected_css_challenge/assets/images/screenshots/Screenshot 2023-05-25 at 3.10.52 PM.png)
+![second photo](horiSEOn_unexpected_css_challenge/assets/images/screenshots/Screenshot 2023-05-25 at 3.11.03 PM.png)
+![third photo](horiSEOn_unexpected_css_challenge/assets/images/screenshots/Screenshot 2023-05-25 at 3.11.10 PM.png)
+
 ## Credits
 
 I asked ChatGPT some questions about types of html attributes that can replace <div>, and also asked questions to figure out how I messed up my CSS. Although I then fixed the issue by referring to the starter code.
