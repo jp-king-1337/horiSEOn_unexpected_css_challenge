@@ -22,8 +22,8 @@ git clone git@github.com:jp-king-1337/horiSEOn_unexpected_css_challenge.git
 This project is to be graded as part of my participation in the Rutgers Coding Bootcamp.
 
 ![first photo](https://github.com/jp-king-1337/horiSEOn_unexpected_css_challenge/blob/main/assets/images/screenshots/Screenshot%202023-05-25%20at%203.10.52%20PM.png)
-![second photo](horiSEOn_unexpected_css_challenge/assets/images/screenshots/Screenshot 2023-05-25 at 3.11.03 PM.png)
-![third photo](horiSEOn_unexpected_css_challenge/assets/images/screenshots/Screenshot 2023-05-25 at 3.11.10 PM.png)
+![second photo](https://github.com/jp-king-1337/horiSEOn_unexpected_css_challenge/blob/main/assets/images/screenshots/Screenshot%202023-05-25%20at%203.11.03%20PM.png)
+![third photo](https://github.com/jp-king-1337/horiSEOn_unexpected_css_challenge/blob/main/assets/images/screenshots/Screenshot%202023-05-25%20at%203.11.10%20PM.png)
 
 ## Credits
 
