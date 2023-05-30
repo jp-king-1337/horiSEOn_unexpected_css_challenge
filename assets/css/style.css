@@ -134,6 +134,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Changed from .footer h2 to #footer_heading, targeting the id of the former h2. */
+#footer_heading {
     font-size: 20px;
 }
