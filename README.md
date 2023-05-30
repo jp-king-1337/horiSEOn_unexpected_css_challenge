@@ -2,10 +2,7 @@
 
 ## Description
 
-This is a refactor of the Horiseon challenge. I replaced all of the <div> tags with semantic tags, in both the HTML and CSS files.
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
+This is a refactor of the Horiseon challenge. I replaced all of the div tags with semantic tags, in both the HTML and CSS files.
 
 ## Table of Contents
 
@@ -29,7 +26,7 @@ This project is to be graded as part of my participation in the Rutgers Coding B
 
 ## Credits
 
-I asked ChatGPT some questions about types of html attributes that can replace <div>, and also asked questions to figure out how I messed up my CSS. Although I then fixed the issue by referring to the starter code.
+I asked ChatGPT some questions about types of html attributes that can replace a div element, and also asked questions to figure out how I messed up my CSS. Although I then fixed the issue by referring to the starter code.
 
 ## License
 
